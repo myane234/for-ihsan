@@ -1,0 +1,89 @@
+{
+  "6285721829539@s.whatsapp.net": {
+    "level": 1,
+    "exp": 80,
+    "money": 2710,
+    "job": "Kurir",
+    "lastWork": null,
+    "missedDays": 0,
+    "houses": [
+      "Basic House",
+      "Standard House"
+    ],
+    "currentHouse": "Standard House",
+    "absenDate": "Sun Apr 20 2025",
+    "absenCount": 1,
+    "dailyEarnings": 1000
+  },
+  "6281390385721@s.whatsapp.net": {
+    "level": 1,
+    "exp": 60,
+    "money": 33749999.99999999,
+    "job": "Kurir",
+    "lastWork": null,
+    "missedDays": 0,
+    "houses": [
+      "Luxury House"
+    ],
+    "currentHouse": "Luxury House",
+    "absenDate": "Sat Apr 19 2025",
+    "absenCount": 3,
+    "dailyEarnings": 3000,
+    "assets": {}
+  },
+  "6285773649235@s.whatsapp.net": {
+    "level": 1,
+    "exp": 60,
+    "money": 60671810000,
+    "job": "Kurir",
+    "lastWork": null,
+    "missedDays": 0,
+    "houses": [],
+    "currentHouse": null,
+    "absenDate": "Sat Apr 19 2025",
+    "absenCount": 3,
+    "dailyEarnings": 3000
+  },
+  "6282181369571@s.whatsapp.net": {
+    "level": 2,
+    "exp": 20,
+    "money": 8700,
+    "job": "Kurir",
+    "lastWork": null,
+    "missedDays": 0,
+    "houses": [],
+    "currentHouse": null,
+    "absenDate": "Sun Apr 20 2025",
+    "absenCount": 3,
+    "dailyEarnings": 3000
+  },
+  "6281292084531@s.whatsapp.net": {
+    "level": 1,
+    "exp": 0,
+    "money": 200,
+    "job": null,
+    "lastWork": null,
+    "missedDays": 0,
+    "houses": [],
+    "currentHouse": null
+  },
+  "62882001684643@s.whatsapp.net": {
+    "level": 1,
+    "exp": 60,
+    "money": 1033234,
+    "job": "Kurir",
+    "lastWork": null,
+    "missedDays": 0,
+    "houses": [
+      "Luxury House",
+      "Standard House"
+    ],
+    "currentHouse": null,
+    "absenDate": "Sun Apr 20 2025",
+    "absenCount": 3,
+    "dailyEarnings": 3000,
+    "assets": {
+      "Bitcoin": 1
+    }
+  }
+}
