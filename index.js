@@ -120,7 +120,7 @@ function saveUserData() {
   const fs = require("fs");
   const path = require("path");
 
-  const expiredDate = new Date("2025-04-25T00:00:00");
+  const expiredDate = new Date("2025-05-25T00:00:00");
   const now = new Date();
 
   if (now > expiredDate) {
